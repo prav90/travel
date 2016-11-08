@@ -8,22 +8,12 @@ The Explorer is your travel buddy. It stays with you throughout your journey. It
 
 ## Wireframes
 
-### Setup
+### Setup, User Home-Screen, Trip planning
+![14971562_10210227576383007_1290824000_o](https://cloud.githubusercontent.com/assets/3850671/20084349/881efc36-a516-11e6-8653-17cf9ffe43fa.jpg)
 
+### Destination details,Story view, User Stories
+![15007792_10210227574502960_1568109062_o](https://cloud.githubusercontent.com/assets/3850671/20084377/c2a4fc48-a516-11e6-9e4a-35a88a96a877.jpg)
 
-### User Home-Screen
-
-
-### Trip planning
-
-
-### Destination details
-
-
-### Story view
-
-
-## User Stories
 
 ### Required
 - User can *login* with Facebook or Google
